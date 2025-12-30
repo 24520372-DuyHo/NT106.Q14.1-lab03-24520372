@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab3.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab3.csproj|solutionrelative:bai4_lab4\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab3.csproj|solutionrelative:bai4_lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BADA9-1053-4407-85BD-05A3EA8888E5}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Server.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.cs",
+              "RelativeToolTip": "bai4_lab4\\Server.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAiwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:17:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Server.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\Server.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:15:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Server.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Server.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:14:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.cs",
+              "RelativeToolTip": "bai4_lab4\\Dashboard.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:14:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:13:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Dashboard.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:13:23.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Client.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.cs",
+              "RelativeToolTip": "bai4_lab4\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:10:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\Client.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:09:14.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Client.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Client.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:08:37.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

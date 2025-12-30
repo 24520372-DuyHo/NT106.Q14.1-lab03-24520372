@@ -1,0 +1,11 @@
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\bin\Debug\bai1_lab3.exe.config
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\bin\Debug\bai1_lab3.exe
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\bin\Debug\bai1_lab3.pdb
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.Client.resources
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.Properties.Resources.resources
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.Server.resources
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.exe
+C:\Users\ABC\source\repos\bai1_lab3\bai1_lab3\obj\Debug\bai1_lab3.pdb

@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|c:\\users\\abc\\source\\repos\\bai5_lab3\\bai5_lab3\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD83B69-95CB-4DB2-A6ED-D4D67D1F636E}|bai5_lab3\\bai5_lab3.csproj|solutionrelative:bai5_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Server.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.cs",
+              "RelativeToolTip": "bai5_lab3\\Server.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:28:25.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Server.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.Designer.cs",
+              "RelativeToolTip": "bai5_lab3\\Server.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:27:36.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Server.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Server.cs [Design]",
+              "RelativeToolTip": "bai5_lab3\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:27:32.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.cs",
+              "RelativeToolTip": "bai5_lab3\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:26:34.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.Designer.cs",
+              "RelativeToolTip": "bai5_lab3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:26:00.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Form1.cs [Design]",
+              "RelativeToolTip": "bai5_lab3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:25:56.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Client.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.cs",
+              "RelativeToolTip": "bai5_lab3\\Client.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:24:27.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.Designer.cs",
+              "RelativeToolTip": "bai5_lab3\\Client.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:23:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Program.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Program.cs",
+              "RelativeToolTip": "bai5_lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:23:29.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.cs",
+              "RelativeDocumentMoniker": "bai5_lab3\\Client.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai5_lab3\\bai5_lab3\\Client.cs [Design]",
+              "RelativeToolTip": "bai5_lab3\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:22:43.709Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
